@@ -1,6 +1,3 @@
-# Hi there 👋 I'm [Pavel](https://laspavel.github.io/)
-### Linux system administrator
-
 - 🔭 I'm currently working on many interesting projects
 - 🌱 I’m currently learning Python
 - 😄 Interested in everything about Kubernetes
