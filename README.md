@@ -1,8 +1,4 @@
-- 🔭 I'm currently working on many interesting projects
-- 🌱 I’m currently learning Python
-- 😄 Interested in everything about Kubernetes
-- ✨ Open to new and interesting
-
+I am a linux system administrator, inerested in DevOps phylosofy, looking for new and challenging projects to improve my engineering skills.
 
 <!--
 **laspavel/laspavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
